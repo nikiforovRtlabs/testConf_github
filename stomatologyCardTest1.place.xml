@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<place xmlns="http://n2oapp.net/framework/config/schema/report-n2o-place-1.0">
+    <containers>
+        <container id="cases">
+            <reports />
+        </container>
+        <container id="service">
+            <reports />
+        </container>
+        <container id="visits-table">
+            <reports />
+        </container>
+    </containers>
+</place>
+
